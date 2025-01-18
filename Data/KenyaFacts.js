@@ -1,0 +1,22 @@
+export default [
+  "Kenya is home to the Great Rift Valley, a massive geological trench stretching over 6,000 kilometers, which is visible even from space.",
+  "The Maasai Mara National Reserve hosts the Great Migration, where over 1.5 million wildebeests, zebras, and other animals migrate between Kenya and Tanzania every year.",
+  "Kenya has produced world-renowned long-distance runners, holding several world records in marathons and other track events.",
+  "Mount Kenya, the second-highest mountain in Africa, is a UNESCO World Heritage site and a significant landmark for the Kikuyu people who consider it sacred.",
+  "Kenya is one of the leading coffee exporters globally, known for its distinctively flavored coffee beans.",
+  "Nairobi, the capital of Kenya, is the only city in the world with a national park (Nairobi National Park) within its borders, where you can spot lions, giraffes, and other wildlife against a city backdrop.",
+  "Kenya has 68 different languages spoken across its regions, with Swahili and English as the two official languages.",
+  "The country is named after Mount Kenya, and it is believed to be derived from the Kikuyu word 'Kirinyaga,' meaning 'mountain of whiteness.'",
+  "Lake Turkana in northern Kenya is the largest desert lake in the world and is often referred to as the ‘Jade Sea’ due to its greenish-blue color.",
+  "Kenya has one of the oldest human fossils, dating back 7 million years, making it one of the cradles of humankind.",
+  "The traditional Maasai community in Kenya is famous for their distinctive customs, dress, and high jumping dance, known as the 'adumu.'",
+  "Kenya has a booming tea industry and is among the world’s leading tea exporters, primarily from the highlands around Kericho and Nandi Hills.",
+  "The coastal city of Lamu is home to one of the oldest Swahili settlements in East Africa, dating back to the 14th century and is a UNESCO World Heritage site.",
+  "Kenya’s flag symbolizes its struggles and natural resources: black for the people, red for freedom, green for natural wealth, and white for peace.",
+  "The country is a biodiversity hotspot, hosting unique ecosystems from tropical beaches to deserts, savannas, and highland forests.",
+  "Kenya was the first African country to recognize and support mobile money, introducing M-Pesa in 2007, which transformed the digital payment landscape globally.",
+  "The endangered Grevy’s zebra, known for its narrow stripes, is found primarily in northern Kenya and nowhere else in the wild.",
+  "Kenya’s Tsavo National Park is one of the largest national parks in the world, covering nearly 22,000 square kilometers.",
+  "Hell’s Gate National Park in Kenya inspired the landscapes in Disney’s animated film *The Lion King*.",
+  "Kenya has a stunning coastline along the Indian Ocean, with beautiful beaches like Diani, Watamu, and Malindi, known for coral reefs and marine life."
+];
